@@ -12,7 +12,7 @@ new Vue({
         tracks: [
           {
             name: "expect a new song here, till the day im alive ;)",
-            artist: "Salik",
+            artist: "Salik - my favourite of the week",
             cover: "https://raw.githubusercontent.com/salik03/hehe.github.io/main/MusicPlayer/img/12.png",
             source: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/Krrish%20Flute.mp3",
             url: "https://www.youtube.com/watch?v=V7KLLr4I2Tg",
