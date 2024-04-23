@@ -13,7 +13,7 @@ new Vue({
           {
             name: "expect a new song here, till the day im alive ;)",
             artist: "Salik",
-            cover: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/img/suspicious-looking-frog-character-thats-up-to-no-good-v0-my5aq45ai8991.webp",
+            cover: "https://raw.githubusercontent.com/salik03/hehe.github.io/main/MusicPlayer/img/12.png",
             source: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/Krrish%20Flute.mp3",
             url: "https://www.youtube.com/watch?v=V7KLLr4I2Tg",
             favorited: false
