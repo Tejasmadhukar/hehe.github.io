@@ -11,9 +11,9 @@ new Vue({
         isTimerPlaying: false,
         tracks: [
           {
-            name: "Mac is shit",
-            artist: "Niharika",
-            cover: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/img/niharikahaha.jpg?token=GHSAT0AAAAAACNOUOCSURU7OXLOPSKVXZ5YZRH7P5A",
+            name: "expect a new song here, till the day im alive ;)",
+            artist: "Salik",
+            cover: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/img/suspicious-looking-frog-character-thats-up-to-no-good-v0-my5aq45ai8991.webp",
             source: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/Krrish%20Flute.mp3",
             url: "https://www.youtube.com/watch?v=V7KLLr4I2Tg",
             favorited: false
