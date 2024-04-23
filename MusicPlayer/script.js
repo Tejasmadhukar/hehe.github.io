@@ -13,9 +13,9 @@ new Vue({
           {
             name: "Mac is shit",
             artist: "Niharika",
-            cover: "https://raw.githubusercontent.com/Mahmud0808/MusicPlayer/main/img/cover-1.jpg",
-            source: "https://raw.githubusercontent.com/Mahmud0808/MusicPlayer/main/mp3/music-1.mp3",
-            url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+            cover: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/img/niharikahaha.jpg?token=GHSAT0AAAAAACNOUOCSURU7OXLOPSKVXZ5YZRH7P5A",
+            source: "https://raw.githubusercontent.com/salik03/macisshit/main/MusicPlayer/Krrish%20Flute.mp3",
+            url: "https://www.youtube.com/watch?v=V7KLLr4I2Tg",
             favorited: false
           }
         ],
